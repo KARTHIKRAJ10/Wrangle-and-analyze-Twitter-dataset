@@ -1,6 +1,2 @@
 # Wrangle-and-analyze-Twitter-dataset
-
-Wrangle the dataset:
-
-   Gather , Clean and assess the WeRateDogs account  
-Analyzing and visualization the wrangled data.
+Real world dataset comes messy and untidy. In Twitter Application WeRateDogs account rate the dogs.Purpose to Gather , assess and clean the WeRateDogs account dataset and to Analyze and visualize the wrangled data. 
